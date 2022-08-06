@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serdev_es/) 
-[![Instagram](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
-
-
 
 
 
