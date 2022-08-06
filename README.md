@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serdev_es/) 
-[![processor](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+(https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 
 
